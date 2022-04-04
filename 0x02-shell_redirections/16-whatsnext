@@ -1,1 +1,2 @@
 #!/bin/bash
+grep -i "toot" -A 3 /etc/passwd
